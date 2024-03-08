@@ -1,4 +1,4 @@
-# Breast Cancer Classification Using Machine Learning
+# Breast Cancer Classification Using Logistic Regression
 
 This project focuses on developing a machine learning model to predict the likelihood of breast cancer based on various features. The dataset used for this project contains various features such as radius, area, concavity, and fractal dimensions of cell nuclei, which are used to predict the diagnosis (Malignant or Benign) of breast cancer.
 
